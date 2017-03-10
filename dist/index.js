@@ -639,6 +639,6 @@ AvatarEditor.defaultProps = {
   onMouseMove: function onMouseMove() {},
   onPositionChange: function onPositionChange() {}
 };
-exports.default = AvatarEditor;
 
+ module.exports = AvatarEditor;
 });
